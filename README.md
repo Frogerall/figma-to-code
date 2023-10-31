@@ -1,4 +1,4 @@
-# kingkong
+# figma-to-code
 
 This is another activity from Roadmap.sh
 
