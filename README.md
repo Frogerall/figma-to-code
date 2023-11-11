@@ -1,6 +1,6 @@
 # Figma-to-Code
 
-![Figma-to-Code Screenshot](screenshot.png)
+![Figma-to-Code Screenshot](screenshot.jpeg)
 
 This project is part of the activities from Roadmap.sh, focusing on converting a Figma design to code.
 
