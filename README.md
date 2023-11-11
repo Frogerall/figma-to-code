@@ -8,6 +8,26 @@ This project is part of the activities from Roadmap.sh, focusing on converting a
 
 The objective of this activity is to implement a web page and an article for developers based on the provided Figma design. The design includes a list of cards intended to be helpful for developers. Currently, the implementation is static.
 
+### Note:
+
+- Currently not responsive on mobile
+
+## Plans & Features to be Added
+
+- Make it Responsive
+
+- Add Javascript for the Pagination
+
+- Add Content
+
+- Add Article Pages
+
+## Created Using
+
+- Html
+
+- CSS
+
 ## Figma Design
 
 Explore the Figma design [here](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?node-id=0%3A1&mode=dev).
